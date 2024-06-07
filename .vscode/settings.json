@@ -1,3 +1,13 @@
 {
-    "prettier.embeddedLanguageFormatting": "off"
+    "prettier.embeddedLanguageFormatting": "off",
+    "prettier.arrowParens": "avoid",
+    "prettier.bracketSpacing": false,
+    "prettier.htmlWhitespaceSensitivity": "css",
+    "prettier.quoteProps": "preserve",
+    "prettier.useEditorConfig": false,
+    "prettier.semi": false,
+    "prettier.enable": false,
+    "prettier.endOfLine": "auto",
+    "prettier.proseWrap": "preserve",
+    "prettier.trailingComma": "none"
 }
